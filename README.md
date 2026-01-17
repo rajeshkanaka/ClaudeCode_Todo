@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anthropics/claude-code/main/assets/claude-logo.svg" alt="Claude Code" width="80" height="80">
+  <img src="claude-color.svg" alt="Claude Code" width="80" height="80">
 </p>
 
 <h1 align="center">
   <br>
-  Todo Enforcement Hook System
+  Claude Code Todo Enforcement Hook System
   <br>
 </h1>
 
