@@ -1,4 +1,4 @@
-# Todo Enforcement Hook System
+# Claude Code Todo Enforcement Hook System
 
 > **Automatic todo tracking and enforcement for Claude Code sessions**
 
